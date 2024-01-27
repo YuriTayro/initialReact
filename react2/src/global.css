@@ -1,0 +1,21 @@
+:root{
+    --white: #c5c5c5;
+    --gray: #8d8d99; 
+    --gray-1: #202024;
+    --black: #191919;
+    --green: #00875f;
+    
+}
+
+body{
+    background-color: var(--black);
+    color: var(--white);
+    font-family: 'Roboto', sans-serif;
+    
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
